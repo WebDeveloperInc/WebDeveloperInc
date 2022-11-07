@@ -1,6 +1,6 @@
-<h2>Hi, I'm 𝒪𝓂𝑜𝓃𝑜𝓋 𝒵𝒾𝓀𝓇𝒾𝓁𝓁𝑜𝒽 👏</h2>
+<h1 style='font-weight: lighter;'>ℌ𝔦, ℑ'𝔪 𝒪𝓂𝑜𝓃𝑜𝓋 𝒵𝒾𝓀𝓇𝒾𝓁𝓁𝑜𝒽 👏</h1>
 
-<h4>Contact me:</h4>
+<h4 style='font-weight: lighter;'>𝕮𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊:</h4>
 
 <br />
 <!-- Telegram -->
@@ -53,10 +53,10 @@
    style='margin: 30px;  text-decoration: none;'
 >
    <img 
-        src='https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png' 
+        src='https://pngimg.com/uploads/github/github_PNG72.png' 
         width='30px' 
    />
 </a>  
 
 
-<h5>ᗪOᑎ'T ᖴOᖇGET TO ᖴOᒪᒪOᗯ! 👈👈👈</h5>
+<h5>ᗪᴏᑎ'ᴛ ᖴᴏᖇɢᴇᴛ ᴛᴏ ᖴᴏᒪᒪᴏᗯ! 👈👈👈</h5>
