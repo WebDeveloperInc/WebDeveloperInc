@@ -44,7 +44,7 @@
 >
    <img 
         src='https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-round-icon-png-image_6315993.png' 
-        width='20px' 
+        width='30px' 
    />
 </a>
 <!-- Github -->
@@ -53,8 +53,8 @@
    style='margin: 30px;  text-decoration: none;'
 >
    <img 
-        src='https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png' 
-        width='20px' 
+        src='[https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png](https://www.kibrispdr.org/data/765/logo-symbols-png-37.png)' 
+        width='30px' 
    />
 </a>  
 
