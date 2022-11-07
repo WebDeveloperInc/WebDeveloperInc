@@ -5,7 +5,7 @@
 <br />
 
 <a href='https://t.me/Web_Developer_Inc/' style='margin: 30px; text-decoration: none;' target='_blank'>
-  <img src='' width='20px' />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png' width='20px' />
   <p>Telegram</p>
 </a>
 <a href='https://www.instagram.com/web_developer_inc/' style='margin: 30px; text-decoration: none;' target='_blank'>
