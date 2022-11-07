@@ -1,4 +1,4 @@
-<h2>Hi, I'm Omonov Zikrilloh 👏</h2>
+<h2>Hi, I'm 𝒪𝓂𝑜𝓃𝑜𝓋 𝒵𝒾𝓀𝓇𝒾𝓁𝓁𝑜𝒽 👏</h2>
 
 <h4>Contact me:</h4>
 
@@ -53,10 +53,10 @@
    style='margin: 30px;  text-decoration: none;'
 >
    <img 
-        src='[https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png](https://www.kibrispdr.org/data/765/logo-symbols-png-37.png)' 
+        src='https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png' 
         width='30px' 
    />
 </a>  
 
 
-<h5>don't forget to follow! 👈👈👈</h5>
+<h5>ᗪOᑎ'T ᖴOᖇGET TO ᖴOᒪᒪOᗯ! 👈👈👈</h5>
