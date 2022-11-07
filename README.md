@@ -15,6 +15,7 @@
     />
     Telegram
 </a>
+<br />
 <a 
    href='https://www.instagram.com/web_developer_inc/' 
    style='margin: 30px; text-decoration: none;' 
@@ -38,12 +39,22 @@
   Facebook
 </a>
 
-<a href='https://www.youtube.com/channel/UCNwWUGtugIyMtb455ku-dEw' style='margin: 30px; text-decoration: none; display: flex; justify-content: space-between;' target='_blank'>
-  <img src='' width='20px' />
-  <p>Youtube</p>
+<a 
+   href='https://www.youtube.com/channel/UCNwWUGtugIyMtb455ku-dEw' 
+   style='margin: 30px; text-decoration: none;' 
+   target='_blank'
+>
+   <img 
+        src='' 
+        width='20px' 
+   />
+  Youtube
 </a>
 
-<a href='https://github.com/WebDeveloperInc/' style='margin: 30px;  text-decoration: none; display: flex; justify-content: space-between;'>
- <img src='' width='20px'
- <p>Github</p>
+<a 
+   href='https://github.com/WebDeveloperInc/' 
+   style='margin: 30px;  text-decoration: none;'
+>
+   <img src='' width='20px' />
+   Github
 </a>  
