@@ -4,18 +4,38 @@
 
 <br />
 
-<a href='https://t.me/Web_Developer_Inc/' style='margin: 30px; text-decoration: none; display: flex; justify-content: space-between;' target='_blank'>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png' width='20px' />
-  <p>Telegram</p>
+<a 
+   href='https://t.me/Web_Developer_Inc/' 
+   style='margin: 30px; text-decoration: none;' 
+   target='_blank'
+>
+    <img 
+         src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png'
+         width='20px' 
+    />
+    Telegram
 </a>
-<a href='https://www.instagram.com/web_developer_inc/' style='margin: 30px; text-decoration: none; display: flex; justify-content: space-between;' target='_blank'>
-  <img src='' width='20px' />
-  <p>Instagram</p>
+<a 
+   href='https://www.instagram.com/web_developer_inc/' 
+   style='margin: 30px; text-decoration: none;' 
+   target='_blank'
+>
+   <img 
+        src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' 
+        width='20px' 
+   />
+   Instagram
 </a>
-
-<a href='https://m.facebook.com/profile.php' style='margin: 30px; text-decoration: none; display: flex; justify-content: space-between;' target='_blank'>
-  <img src='' width='20px' />
-  <p>Facebook</p>
+<a 
+   href='https://m.facebook.com/profile.php' 
+   style='margin: 30px; text-decoration: none;' 
+   target='_blank'
+>
+   <img 
+        src='' 
+        width='20px' 
+   />
+  Facebook
 </a>
 
 <a href='https://www.youtube.com/channel/UCNwWUGtugIyMtb455ku-dEw' style='margin: 30px; text-decoration: none; display: flex; justify-content: space-between;' target='_blank'>
